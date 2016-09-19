@@ -1,0 +1,37 @@
+<DOCTYPE! html>
+<html>
+<title>Connor Nolan vCard</title>
+<head>
+<link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">   
+    
+<style>
+body {background-color: aliceblue;}
+h1   {color: navy;}
+    h1 {font-family: sans-serif}
+    h1 {text-align: center}
+
+h2 {font-family: sans-serif}
+    h2 {text-align: center}
+    
+
+p    {color: black;}
+    p {font-family: sans-serif}
+    p {text-align: center}
+    p {margin: 90px}
+    
+img {align: middle}
+    img {margin: 10px}
+
+</style>
+</head>
+<body>
+<h1>Connor Nolan</h1>
+    <center><img src="https://scontent-atl3-1.xx.fbcdn.net/t31.0-8/12792305_10153315759001817_4235003323215739979_o.jpg" alt="Photo" height="300" width="200" align="middle"></center><hr>
+<p>I am a freshman at Bob Jones University studying Computer Science with a minor in Business. I am currently employed by Table 301 at Southern Pressed Juicery, and formerly worked as a security guard at the BJU M&G. I am a second degree black belt in Tang Soo Do and have taken lessons for 8 years.</p>
+<hr>
+
+
+
+
+</body>
+</html>
